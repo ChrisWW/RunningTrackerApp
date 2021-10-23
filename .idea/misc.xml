@@ -3,9 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/layout/fragment_setup.xml" value="0.1" />
+        <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.1" />
+        <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/drawable/ic_add_black.xml" value="0.1" />
+        <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/drawable/ic_graph.xml" value="0.1" />
+        <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/drawable/ic_run.xml" value="0.1" />
+        <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/drawable/ic_settings.xml" value="0.1" />
+        <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/layout/fragment_run.xml" value="0.16576086956521738" />
+        <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/layout/fragment_setup.xml" value="0.176" />
+        <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/layout/fragment_statistics(land).xml" value="0.1" />
         <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/layout/fragment_statistics.xml" value="0.1" />
         <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/layout/fragment_tracking.xml" value="0.1" />
+        <entry key="..\:/workspace/RunningTrackerApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20208333333333334" />
       </map>
     </option>
   </component>
